@@ -1,0 +1,10 @@
+node_modules/
+config.json
+scan_state.json
+last_scan.json
+scan.log
+scheduler.log
+scan.lock
+archive/
+docs/*.docx
+*.bak-*

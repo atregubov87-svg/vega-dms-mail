@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "imapflow": "^2.5.8",
+    "mailparser": "^3.10.0",
+    "xlsx": "^0.18.5"
+  }
+}
